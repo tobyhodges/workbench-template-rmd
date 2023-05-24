@@ -4,6 +4,9 @@
     <loc>https://carpentries.github.io/workbench-template-rmd/01-introduction.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/workbench-template-rmd/404.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-rmd/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
@@ -20,6 +23,9 @@
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-rmd/instructor/01-introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/404.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-rmd/instructor/CODE_OF_CONDUCT.html</loc>
@@ -40,6 +46,9 @@
     <loc>https://carpentries.github.io/workbench-template-rmd/instructor/instructor-notes.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/introduction.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-rmd/instructor/key-points.html</loc>
   </url>
   <url>
@@ -49,7 +58,13 @@
     <loc>https://carpentries.github.io/workbench-template-rmd/instructor/profiles.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/reference.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-rmd/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-rmd/introduction.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-rmd/key-points.html</loc>
@@ -59,5 +74,8 @@
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-rmd/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-rmd/reference.html</loc>
   </url>
 </urlset>
